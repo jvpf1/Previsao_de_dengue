@@ -3,6 +3,10 @@ Notebook  de resolução do 8° HackDay da Comunidade DS
 
 Equipe 6, Time Jiraya - 2° Colocado geral 
 ---
+
+![GIF de mosquitos na água](https://giphy.com/gifs/water-mosquitoes-stagnant-EvoVJjCkvEHNCGkdXC)
+
+
 # Descrição
 A dengue é uma doença viral transmitida principalmente pelo mosquito Aedes aegypti e representa um desafio significativo para a saúde pública devido à sua rápida disseminação e impacto na população. A capacidade de prever a propagação da doença pode auxiliar as autoridades de saúde a tomar medidas preventivas e de controle de forma mais eficaz.
 
